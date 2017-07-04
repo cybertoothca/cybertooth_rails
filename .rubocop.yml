@@ -1,0 +1,5 @@
+# defaults found here: https://github.com/bbatsov/rubocop/blob/master/config/default.yml
+# default enabled found here: https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml
+
+Metrics/LineLength:
+  Enabled: false
